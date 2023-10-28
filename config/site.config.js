@@ -20,7 +20,7 @@ module.exports = {
   title: "Stare Kreskówki na OneDrive",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
-  baseDirectory: '/Public',
+  baseDirectory: 'https://6m8wql-my.sharepoint.com/:f:/g/personal/starekreskowki_6m8wql_onmicrosoft_com/EjUhqG_CMr9Ar68HX-aTTa4BxovBAFSgWXzqhmp9pqRNzw?e=DW8zHt',
 
   // [OPTIONAL] This represents the maximum number of items that one directory lists, pagination supported.
   // Do note that this is limited up to 200 items by the upstream OneDrive API.
